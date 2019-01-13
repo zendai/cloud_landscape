@@ -1,11 +1,6 @@
 # Cloud landscape by sendai
 
 
-
-[TOC]
-
-
-
 # Infrastructure platforms
 
 
